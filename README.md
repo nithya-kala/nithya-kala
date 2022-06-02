@@ -29,7 +29,7 @@ Experienced Full Stack Developer with strong expertise in Mongo, Express, Angula
 **Full Stack Developer** @ [IBM](https://www.ibm.com) <br> 
 _(May 2016 - Present)_ <br>
 
-**Tech Lead** @[Emids](https://www.emids.com/) <br> 
+**Senior Software Engineer** @[Emids](https://www.emids.com/) <br> 
 _(June 2014 - Nov 2015)_ <br>
 
 **Associate** @[Cognizant](https://www.cognizant.com) <br> 
