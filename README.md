@@ -1,7 +1,7 @@
 # Nithyakala
-👋Hi!, I'm Full Stack Developer and coding enthusiast
-
 Node JS | Angular | React | Mongo DB | Express | MEAN/MERN Stack
+
+👋Hi!, I'm Full Stack Developer and coding enthusiast
 
 [Email](mailto:nithyakala1988@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nithya-kala/) / [Resume](https://github.com/nithya-kala/nithya-kala/raw/main/assets/Nithyakala-Resume.pdf)
 
