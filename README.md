@@ -1,4 +1,5 @@
-# Nithyakala 👋
+# Nithyakala
+👋Hi!, I'm Full Stack Developer and coding enthusiast
 
 Node JS | Angular | React | Mongo DB | Express | MEAN/MERN Stack
 
@@ -23,7 +24,7 @@ Experienced Full Stack Developer with strong expertise in Mongo, Express, Angula
 - Familiar with **gRPC** protocol and serialization formats like Protobuf
 - Good experience with **CI/CD** pipeline in OpenShift and **GitHub actions**
 
-## 🏆 Accomplishments
+## 🏆 Awards and Recognition
 
 **IBM Manager's Choice Award** @ [IBM](https://www.ibm.com) _(2021)_ <br>
 Received IBM Manager's Choice Award for putting the Client first for their success
@@ -55,7 +56,8 @@ _(Mar 2011 - June 2014)_
 ## 💬 Languages
 
 **English**: Professional <br>
-**Tamil**: Native
+**Tamil**: Native <br>
+**Telugu**: Native
 <br><br>
 
 ## 👩🏼‍🎓 Education
