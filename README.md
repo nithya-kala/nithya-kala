@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=14&color=5FC397&center=false&lines=I%27m%20a%20Fullstack%20developer%20and%20problem%20solver)](https://git.io/typing-svg)
 
-### How to reach me
-
-|#|@|
-|----------|------------------------------------------------------------------------------------------|
-|Website:  | [nithya-kala.github.io](https://nithya-kala.github.io/)                                  |
-|Email:    | [nithyakala1988@gmail.com](mailto:nithyakala1988@gmail.com)                              |
-|LinkedIn: | [nithya-kala](https://www.linkedin.com/in/nithya-kala/)                                  |
-|Resume:   | [nithya-kala-resume.pdf](https://nithya-kala.github.io/assets/nithya-kala-resume.pdf)    |
-
 <br />
 
 ### Languages&nbsp;and&nbsp;Tools
