@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhlananh&style=for-the-badge&color=blue&base=1000" alt="github profile views counter">
+  <img src="https://komarev.com/ghpvc/?username=nithya-kala&style=for-the-badge&color=blue&base=1000" alt="github profile views counter">
 </div>
 
 ---
