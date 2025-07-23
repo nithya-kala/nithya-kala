@@ -10,10 +10,6 @@
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611kt6ydv8c6ar20wtp0kqq9v5j2lccb6hjpwhc9itf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithya-kala&style=for-the-badge&color=blue&base=1000" alt="github profile views counter">
-</div>
-
 ---
 
 
