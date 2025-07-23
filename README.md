@@ -4,15 +4,6 @@
 
 <br />
 
-<!-- Header Banner -->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611kt6ydv8c6ar20wtp0kqq9v5j2lccb6hjpwhc9itf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" />
-</div>
-
----
-
-
 ### Languages&nbsp;and&nbsp;Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white")
